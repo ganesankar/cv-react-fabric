@@ -4,7 +4,7 @@ export const Api = {
     fetchRecords() {
         return axios({
             method: "get",
-            url: "https://api.myjson.com/bins/qwijc"
+            url: "http://ganny.in/cv/data/"
         });
     }
 }
