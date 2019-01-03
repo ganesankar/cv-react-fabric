@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/prop-types": "^15.5.8",
     "@types/react-redux": "^6.0.6",
     "@types/redux-logger": "^3.0.6",
     "ag-grid": "^18.1.2",
